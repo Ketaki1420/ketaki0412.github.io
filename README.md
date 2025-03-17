@@ -1,5 +1,5 @@
 # ketaki0412.github.io
-- Hi there, My Name is Ketaki Khengre I am a BTech Grad in Electronics and Telecommunication from VIT Pune.
-- Currently pursuing Exe-MBA from SIBM Pune Specializing in Analytics and Marketing.
-- I am  working as a Software Developer in Automotive domain.
-- Passionate to contribute in the business administration of an organization and take up leadership roles.
+- 👋 Hello! I'm Ketaki Khengre, a BTech graduate in Electronics and Telecommunication from VIT Pune.
+- 📚 Currently, I'm pursuing an Executive MBA from SIBM Pune, specializing in Analytics and Marketing.
+- 💻 I work as a Software Developer in the automotive domain.
+- 🚀 I'm passionate about contributing to the business administration of an organization and aspire to take on leadership roles while leveraging my technical skills.
